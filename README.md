@@ -1,5 +1,7 @@
 # 📅 ion2-calendar
 
+Changed from https://github.com/HsuanXyz/ion2-calendar
+
 [![Build Status](https://travis-ci.org/HsuanXyz/ion2-calendar.svg?branch=master)](https://travis-ci.org/HsuanXyz/ion2-calendar)
 [![Dependency Status](https://david-dm.org/HsuanXyz/ion2-calendar.svg)](https://david-dm.org/HsuanXyz/ion2-calendar)
 [![NPM version][npm-image]][npm-url]
